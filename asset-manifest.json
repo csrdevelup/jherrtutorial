@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jherrtutorial/static/css/main.f855e6bc.css",
+    "main.js": "/jherrtutorial/static/js/main.aaac2e4f.js",
+    "static/js/453.ed386b9e.chunk.js": "/jherrtutorial/static/js/453.ed386b9e.chunk.js",
+    "static/media/logo.svg": "/jherrtutorial/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jherrtutorial/index.html",
+    "main.f855e6bc.css.map": "/jherrtutorial/static/css/main.f855e6bc.css.map",
+    "main.aaac2e4f.js.map": "/jherrtutorial/static/js/main.aaac2e4f.js.map",
+    "453.ed386b9e.chunk.js.map": "/jherrtutorial/static/js/453.ed386b9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.aaac2e4f.js"
+  ]
+}
